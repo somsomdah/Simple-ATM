@@ -23,6 +23,8 @@
       
         ```
       
+      
+      
 - `http://127.0.0.1:8000/atm/authenticate/`
     - request
         ```json
@@ -65,6 +67,8 @@
         }
         ```
 
+
+
 - `http://127.0.0.1:8000/atm/deposit-withdrawal/`
     - request
         ```json
@@ -88,6 +92,8 @@
             "auth": "failed"
         }
         ```
+
+
 
 - `http://127.0.0.1:8000/atm/accounts/`
     - request
@@ -134,6 +140,8 @@
             "auth": "failed"
         }
         ```
+
+
 
 - `http://127.0.0.1:8000/atm/history/`
     - request
